@@ -1,0 +1,245 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background-color: #fe7701;
+}
+
+main {
+  width: 1260px;
+  height: 1340px;
+  margin: 0 auto;
+  padding: 0 150px;
+  font-size: 14px;
+  font-family: "Quicksand",sans-serif;
+}
+
+header {
+  margin-top: 30px;
+  margin-bottom: 18px;
+}
+
+#logo {
+  margin-left: 25px;
+}
+
+#btn_set {
+  float: right;
+}
+
+#twitter {
+  margin: 0 10px;
+}
+
+.white-back {
+  background-color: #fff;
+  color: #fe7701;
+  border-radius: 3px;
+  box-shadow: -5px 5px rgba(164, 77, 5, 0.5);
+}
+
+nav {
+  width: 960px;
+  height: 50px;
+  padding: 16px 30px;
+}
+
+nav p {
+  margin-right: 30px;
+  float: left;
+}
+
+nav a {
+  color: #fe7701;
+}
+
+#jumbotron {
+  width: 960px;
+  height: 500px;
+  background: url("../img/bg_sliderbox.png");
+  margin-top: 19px;
+  border-radius: 3px;
+}
+
+#content {
+  margin-top: 20px;
+}
+
+.upper-block {
+  width: 300px;
+  height: 206px;
+  float: left;
+}
+
+.subtitle {
+  width: 300px;
+  height: 50px;
+  padding: 16px 30px;
+}
+
+.text-black-12px {
+  font-size: 12px;
+  color: #404040;
+}
+
+#services-block {
+  margin: 15px 0 26px 51px;
+}
+
+#services-block img {
+  float:left;
+}
+
+.services-sub {
+  float:right;
+  width: 199px;
+  height: 30px;
+  padding: 8px 15px;
+}
+
+#webdesign {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+#webdev {
+  margin-bottom: 10px;
+}
+
+#portfolio {
+  margin: 0 30px;
+}
+
+#portfolio-block {
+  margin-top: 20px;
+}
+
+#portfolio-block img {
+  float: left;
+  border-radius: 3px;
+}
+
+.port-up {
+  margin-bottom: 10px;
+}
+
+.port-margin {
+  margin-right: 15px;
+}
+
+#testimonials-block {
+  width: 300px;
+  height: 136px;
+  margin-top: 20px;
+  padding: 13px 15px;
+  line-height: 20px;
+}
+
+#blog {
+  width: 530px;
+  height: 330px;
+  float: left;
+}
+
+#blog-title {
+  width: 630px;
+  height: 50px;
+  float: left;
+  padding: 16px 30px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+#blog-block {
+  float: left;
+}
+
+.blog-sub {
+  width: 630px;
+  height: 80px;
+  padding: 10px;
+}
+
+.blog-margin {
+  margin-bottom: 10px;
+}
+
+#blog-block img {
+  float: left;
+}
+
+.blog-text {
+  float: left;
+}
+
+#blog-block h3 {
+  margin: 4px 10px;
+  font-size: 16px;
+  color: #404040;
+}
+
+#blog-block h6 {
+  margin: 8px 10px;
+  font-size: 10px;
+  font-style: italic;
+  color: #a54e03;
+}
+
+
+#tweets {
+  float: right;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+#tweets-block {
+  margin-top: 20px;
+  width: 300px;
+  height: 260px;
+}
+
+.tweets-bar {
+  width: 270px;
+  margin: 0 15px;
+  padding: 14px 0;
+  border-bottom: 1px solid #a54e03;
+}
+
+.twitter-account {
+  color: #a54e03;
+  font-size: 14px;
+  margin: auto;
+}
+
+.twitter-text {
+  color: #404040;
+  font-size: 14px;
+  margin: auto;
+}
+
+.twitter-link {
+  color: #a54e03;
+  font-size: 10px;
+  margin: auto;
+  font-style: italic;
+}
+
+footer {
+  width: 100%;
+  height: 50px;
+  background-color: #404040;
+  color: #fe7701;
+}
+
+#footer-left {
+  float: left;
+  margin: 16px 0 16px 270px;
+}
+
+#footer-right {
+  float: right;
+  margin: 16px 295px 16px 0;
+}
